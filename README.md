@@ -1,6 +1,8 @@
-# fossil
+# edvcfs
 
 This repository contains builds for fossil that are on non-major architectures / systems.
+
+# Binaries
 
 Built using the following:
 
