@@ -6,7 +6,7 @@ import (
 )
 
 func TestExists(t *testing.T) {
-	if !exists("../README.md") {
+	if !exists("README.md") {
 		t.Errorf("Doesn't exist?")
 	}
 }
