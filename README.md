@@ -1,5 +1,7 @@
 # edvcfs
 
+![](https://img.shields.io/badge/coverage-88%25-brightgreen.svg)
+
 This repository contains builds for fossil that are on non-major architectures / systems.
 
 # Binaries
