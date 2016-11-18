@@ -1,4 +1,4 @@
-package main
+package edvcfs
 
 import "testing"
 
@@ -11,7 +11,7 @@ func TestDecrypt(t *testing.T) {
 }
 
 func TestCompression(t *testing.T) {
-	test := `package main
+	test := `package edvcfs
 
   import "testing"
 

@@ -1,4 +1,4 @@
-package main
+package edvcfs
 
 import (
 	"crypto/md5"
